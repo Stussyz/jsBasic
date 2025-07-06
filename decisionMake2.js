@@ -1,4 +1,4 @@
-//  if-if statement decision with property Math.random
+//  if-if decision statement with Math.random property
 let number = Math.random();
 console.log(number);
 
